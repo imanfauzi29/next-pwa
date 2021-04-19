@@ -1,0 +1,37 @@
+{
+    "relocate_batches": "Relocate Batches",
+    "select_file": "Select File",
+
+    "button_add_project": "Add Project",
+    "button_add_project_attribute": "Add Project Attribute",
+    "button_add_fm": "Add FM",
+    "button_add_site": "Add Site",
+    "button_add_batches": "Add Batches",
+    "button_add_new_role": "Add New Role",
+    "button_add_manager": "Add Manager",
+    "button_add_site_manager": "Add Site Manager",
+    "button_add_task_type": "Add Task Type",
+    "button_add_new_user": "Add New User",
+    "button_add_workflow": "Add Workflow",
+
+    "add": {
+        "project": "Add Project",
+        "project_attr": "Add Project Attribute",
+        "project_fm": "Add FM",
+        "project_site": "Add Site",
+        "batch": "Add Batches",
+        "role": "Add New Role",
+        "site": "Add Site",
+        "assign_manager": "Add Manager",
+        "site_manager": "Add Site Manager",
+        "task_type": "Add Task Type",
+        "user_management": "Add New User",
+        "workflow": "Add Workflow"
+    },
+    "post_batch": "Post Batch",
+    "save": "Save Changes",
+    "back": "Back",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View"
+}

@@ -1,0 +1,49 @@
+{
+    "home": "家",
+    "section": {
+        "0": "主人"
+    },
+    "category": {
+        "pm": {
+            "title": "專案管理",
+            "item": {
+                "project": "專案",
+                "pa": "項目屬性",
+                "workflow": "流程"
+            }
+        },
+        "sm": {
+            "title": "網站管理",
+            "item": {
+                "site": "網站",
+                "sm": "網站管理員"
+            }
+        },
+        "fm": {
+            "title": "檔案管理",
+            "item": {
+                "batch": "批"
+            }
+        },
+        "sys": {
+            "title": "系統",
+            "item": {
+                "mw": "監控工作流程"
+            }
+        },
+        "um": {
+            "title": "使用者管理",
+            "item": {
+                "user": "使用者",
+                "permission": "許可",
+                "role": "的角色"
+            }
+        }
+    },
+    "entry": {
+        "setting": "設置",
+        "fullscreen": "全屏",
+        "lock": "鎖",
+        "logout": "註銷"
+    }
+}

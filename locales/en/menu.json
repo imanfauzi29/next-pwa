@@ -1,0 +1,70 @@
+{
+    "home": "Home",
+    "title_master": "Master",
+
+    "category_title_project_management": "Projects Management",
+    "category_title_site_management": "Site Management",
+    "category_title_file_management": "File Management",
+    "category_title_system": "System",
+    "category_title_user_management": "User Management",
+
+    "item_project": "Projects",
+    "item_project_attribute": "Project Attribute",
+    "item_workflow": "Workflow",
+    "item_site": "Site",
+    "item_site_manager": "Site Manager",
+    "item_batch": "Batch",
+    "item_monitor_workflow": "Monitor Workflow",
+
+    "entry_setting": "Setting",
+    "entry_fullscreen": "FullScreen",
+    "entry_lock": "Lock",
+    "entry_logout": "Logout",
+
+    "section": {
+        "0": "Master"
+    },
+    "category": {
+        "pm": {
+            "title": "Projects Management",
+            "item": {
+                "project": "Projects",
+                "pa": "Project Attribute",
+                "workflow": "Workflow"
+            }
+        },
+        "sm": {
+            "title": "Site Management",
+            "item": {
+                "site": "Site",
+                "sm": "Site Manager"
+            }
+        },
+        "fm": {
+            "title": "File Management",
+            "item": {
+                "batch": "Batch"
+            }
+        },
+        "sys": {
+            "title": "System",
+            "item": {
+                "mw": "Monitoring Workflow"
+            }
+        },
+        "um": {
+            "title": "User Management",
+            "item": {
+                "user": "User",
+                "permission": "Permission",
+                "role": "Roles"
+            }
+        }
+    },
+    "entry": {
+        "setting": "Setting",
+        "fullscreen": "FullScreen",
+        "lock": "Lock",
+        "logout": "Logout"
+    }
+}

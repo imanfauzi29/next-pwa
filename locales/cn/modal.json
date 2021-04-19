@@ -1,0 +1,20 @@
+{
+    "batch_create": "添加專案批次",
+    "project_create": "添加專案",
+    "project_fm_create": "添加調頻",
+    "project_site_create": "添加網站",
+    "role_create": "添加角色",
+    "site_create": "添加網站",
+    "assign_manager_create": "網站管理員 - 添加",
+    "site_manager_create": "添加網站管理員",
+    "task_type_create": "添加新任務類型",
+    "user_management_create": "添加使用者",
+    "create_workflow": "創建新的工作流程",
+
+    "update_workflow": "更新工作流程",
+
+    "project_edit": "編輯專案",
+    "site_edit": "編輯網站",
+    "assign_manager_edit": "分配經理 - 編輯",
+    "user_management_edit": "編輯使用者"
+}

@@ -1,0 +1,19 @@
+{
+    "uploading": "Uploading",
+    "uploaded": "Uploaded",
+    "checking": "Checking",
+    "checked": "Checked",
+    "upload_date": "Upload Date",
+    "filter": "Filter",
+
+    "select_status": " - Choose Status - ",
+    "select_project": " - Choose Project - ",
+    "select_site": " - Choose Site - ",
+    "select_should_process": " - Choose Should Process - ",
+    "select_pm": " - Choose Project Manager - ",
+    "select_user": " - Select User - ",
+    "select_email": " - Choose Email - ",
+    "select_user_code": " - Choose User Code - ",
+    "select_manager": " - Choose Manager - ",
+    "select_batch": " - Choose Batch - "
+}

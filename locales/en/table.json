@@ -1,0 +1,84 @@
+{
+    "id": "ID",
+    "name": "Name",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "start_date": "Start Date",
+    "end_date": "End Date",
+    "status": "status",
+    "status_check": "Status Check",
+    "select_status": "Choose Status",
+    "workflow": "workflow",
+    "site": "Site",
+    "site_id": "Site Id",
+    "fm": "FM",
+    "action": "Action",
+    "file": "File",
+    "created": "Created",
+    "created_by": "Created By",
+    "checked_date": "Checked Date",
+    "fullname": "Fullname",
+    "username": "Username",
+    "email": "email",
+    "user_code": "User Code",
+    "user_fullname": "User Fullname",
+    "message": "Message",
+    "total_row": "Total Row",
+    "task_type": "Task Type ID",
+    "attr_field_name": "Attribute Fields Name",
+    "should_process": "Should Process",
+
+    "project_id": "Project ID",
+    "project_name": "Project Name",
+    "project_manager": "Project Manager",
+
+    "batch_name": "Batch Name",
+    "small_batch": "Small Batch",
+
+    "role_name": "Role Name",
+
+    "site_name": "Site Name",
+    "site_manager": "Site Manager",
+    "site_list": "Site List",
+
+    "task_name": "Task Name",
+
+    "wfid": "WFID",
+    "diagram_title": "Diagram Title",
+
+    "batch": "Batch",
+    "relocate_to": "Relocate To",
+
+    "project_form": {
+        "id": "Project ID",
+        "name": "Project Name",
+        "pm": "Project Manager",
+        "task_ype": "Task Type ID",
+        "attr_field_name": "Attribute Fields Name",
+        "should_process": "Should Process"
+    },
+    "batch_form": {
+        "name": "Batch Name",
+        "small_batch": "Small Batch"
+    },
+    "role_form": {
+        "name": "Role Name"
+    },
+    "site_form": {
+        "id": "Site ID",
+        "name": "Site Name",
+        "sm": "Site Manager",
+        "sl": "Site List"
+    },
+    "task_type_form": {
+        "name": "Task Name"
+    },
+    "workflow_form": {
+        "wfid": "WFID",
+        "title": "Diagram Title"
+    },
+    "relocate_form": {
+        "batch": "Batch",
+        "relocate_to": "Relocate To"
+    }
+}

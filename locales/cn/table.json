@@ -1,0 +1,60 @@
+{
+    "id": "ID",
+    "name": "名字",
+    "password": "密碼",
+    "confirm_password": "確認密碼",
+    "start_date": "開始日期",
+    "end_date": "結束日期",
+    "status": "地位",
+    "status_check": "狀態檢查",
+    "workflow": "流程",
+    "select_status": "選擇狀態",
+    "site": "網站",
+    "site_id": "網站 ID",
+    "fm": "調頻",
+    "action": "行動",
+    "file": "檔",
+    "created": "創建",
+    "checked_date": "已選中日期",
+    "fullname": "全名",
+    "username": "使用者",
+    "email": "電子郵件",
+    "user_code": "用戶代碼",
+    "user_fullname": "使用者全名",
+    "message": "消息",
+    "total_row": "總行數",
+    "created_by": "創建由",
+
+    "project_form": {
+        "id": "項目識別碼",
+        "name": "專案名稱",
+        "pm": "項目經理",
+        "task_ype": "任務類型識別碼",
+        "attr_field_name": "屬性欄位名稱",
+        "should_process": "應處理"
+    },
+    "batch_form": {
+        "name": "批次名稱",
+        "small_batch": "小批量"
+    },
+    "role_form": {
+        "name": "角色名稱"
+    },
+    "site_form": {
+        "id": "網站 ID",
+        "name": "網站名稱",
+        "sm": "網站管理員",
+        "sl": "網站清單"
+    },
+    "task_type_form": {
+        "name": "任務名稱"
+    },
+    "workflow_form": {
+        "wfid": "世界糧食計劃署",
+        "title": "圖表標題"
+    },
+    "relocate_form": {
+        "batch": "批",
+        "relocate_to": "搬遷到"
+    }
+}

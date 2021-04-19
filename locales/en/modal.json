@@ -1,0 +1,38 @@
+{
+    "title_create_item_batch": "Add Item Batch",
+    "title_create_item": "Add Item",
+    "title_create_fm": "Add FM",
+    "title_create_site": "Add Site",
+    "title_create_roles": "Add Roles",
+    "title_create_assign_site_manager": "Assign Site Manager",
+    "title_create_site_manager": "Add Site Manager",
+    "title_create_task_type": "Add Task Type",
+    "title_create_user": "Add User",
+    "title_create_workflow": "Create New Workflow",
+
+    "title_update_workflow": "Update Workflow",
+
+    "title_edit_project": "Edit Project",
+    "title_edit_site": "Edit Site",
+    "title_edit_assign_manager": "Assign Manager - Edit",
+    "title_edit_user": "Edit User",
+
+    "batch_create": "Add Item Batch",
+    "project_create": "Add Item",
+    "project_fm_create": "Add FM",
+    "project_site_create": "Add Site",
+    "role_create": "Add roles",
+    "site_create": "Add Site",
+    "assign_manager_create": "Site Manager - Add",
+    "site_manager_create": "Add Site Manager",
+    "task_type_create": "Add New Task Type",
+    "user_management_create": "Add User",
+    "create_workflow": "Create New Workflow",
+
+    "update_workflow": "Update Workflow",
+
+    "project_edit": "Edit Project",
+    "site_edit": "Edit Site",
+    "assign_manager_edit": "Assign Manager - Edit",
+    "user_management_edit": "Edit User"
+}
